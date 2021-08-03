@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Background Ngab</title>
+    </head>
+    <body align="center"> 
+    <font size="14pt" face="Montserrat" color="#FF4C29">
+        <b>Biodata</b> <br>
+    </font>
+    </body>
+   
+        <img src="uwu.jpg" height="10%" width="15%"> <br>
+        <font size="3pt" face="Montserrat" color="#00000">
+            <table align="center" border="0">
+            <tr>
+                <th align="left">Nama</th>
+                <th>:</th>
+                <th align="left">Muhammad Raffa Andarra Putra</th>
+            </tr>
+            <tr>
+                <th align="left">Alamat</th>
+                <th>:</th>
+                <th align="left">Jl. Tanjung Putra Yudha 3 Kav.25</th>
+            </tr>
+            <tr>
+                <th align="left">Tempat, Tanggal Lahir</th>
+                <th>:</th>
+                <th align="left">Malang, 06 Desember 2004</th>
+            </tr>
+            <tr>
+                <th align="left">Status</th>
+                <th>:</th>
+                <th align="left">Sadboy Ngenes</th>
+            </tr>
+            <tr>
+                <th align="left">Jenis Kelamin</th>
+                <th>:</th>
+                <th align="left">Laki Laki</th>
+            </tr>
+            <tr>
+                <th align="left">Agama</th>
+                <th>:</th>
+                <th align="left">Islam</th>
+            </tr>
+            <tr>
+                <th align="left">Sekolah Asal</th>
+                <th>:</th>
+                <th align="left">SMK Telkom Malang</th>
+            </tr>
+            <tr>
+                <th align="left">Wish</th>
+                <th>:</th>
+                <th align="left">Bisa menjadi front end developer</th>
+            </tr>
+        </font>
+    </table>
+    </body>
+</html>
