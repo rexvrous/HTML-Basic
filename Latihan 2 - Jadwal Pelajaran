@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jadwal Nge Sad</title>
+    </head>
+    <body align="center">
+        <font size="5pt" face="Montserrat" color="#FF4C29">
+            <b>Jadwal Pelajaran XI RPL 5 Tahun Pelajaran 2077/2078</b><br>
+            <br>
+        <font size="5pt" face="Montserrat" color="#00000">
+            <table border="2" align="center">
+                <tr>
+                    <td bgcolor="yellow" colspan="7" align="center"><b>Jadwal Pelajaran</b></td>
+                </tr>
+                <tr bgcolor="lime">
+                    <td align="center"><b>Jam</b></td>
+                    <td align="center"><b>Senin</b></td>
+                    <td align="center"><b>Selasa</b></td>
+                    <td align="center"><b>Rabu</b></td>
+                    <td align="center"><b>Kamis</b></td>
+                    <td align="center"><b>Jum'at</b></td>
+                    <td align="center"><b>Sabtu</b></td>
+                </tr>
+                <tr>
+                    <td bgcolor="aqua" align="center"><b>07:00</b></td>
+                    <td align="center">Bahasa Indonesia</td>
+                    <td align="center">Ilmu Pengetahuan Sosial</td>
+                    <td [[rowspan="2" align="center">Matematika</td>
+                    <td rowspan="3" align="center">Seni Sadboy</td>
+                    <td rowspan="2" align="center">Coding</td>
+                    <td bgcolor="red" rowspan="3" align="center"><b>MIMPIIN DIA</b></td>
+                </tr>
+                <tr>
+                    <td bgcolor="aqua" align="center"><b>09:00</b></td>
+                    <td align="center">Rebahan</td>
+                    <td align="center">Valorant</td>
+                    
+                </tr>
+                <tr>
+                    <td bgcolor="aqua" align="center"><b>11:00</b></td>
+                    <td align="center">Editing Video</td>
+                    <td align="center">Mobile Legends</td>
+                    <td align="center">Seni Budaya</td>
+                    <td align="center">Jum'atan</td>
+                </tr>
+            </table>
+            </font>
+    </body>
+</html>
